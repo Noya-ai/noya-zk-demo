@@ -805,12 +805,7 @@
     fs-extra "^7.0.1"
     node-fetch "^2.6.0"
 
-"@nomiclabs/hardhat-ethers@^2.1.1":
-  version "2.2.2"
-  resolved "https://registry.yarnpkg.com/@nomiclabs/hardhat-ethers/-/hardhat-ethers-2.2.2.tgz#812d48929c3bf8fe840ec29eab4b613693467679"
-  integrity sha512-NLDlDFL2us07C0jB/9wzvR0kuLivChJWCXTKcj3yqjZqMoYp7g7wwS157F70VHx/+9gHIBGzak5pKDwG8gEefA==
-
-"@nomiclabs/hardhat-ethers@^2.2.3":
+"@nomiclabs/hardhat-ethers@^2.1.1", "@nomiclabs/hardhat-ethers@^2.2.3":
   version "2.2.3"
   resolved "https://registry.yarnpkg.com/@nomiclabs/hardhat-ethers/-/hardhat-ethers-2.2.3.tgz#b41053e360c31a32c2640c9a45ee981a7e603fe0"
   integrity sha512-YhzPdzb612X591FOe68q+qXVXGG2ANZRvDo0RRUtimev85rCrAlv/TLMEZw5c+kq9AbzocLTVX/h2jVIFPL9Xg==
@@ -959,10 +954,10 @@
   dependencies:
     defer-to-connect "^2.0.1"
 
-"@tenderly/hardhat-tenderly@^1.7.3":
-  version "1.7.3"
-  resolved "https://registry.yarnpkg.com/@tenderly/hardhat-tenderly/-/hardhat-tenderly-1.7.3.tgz#cf3ade285c198d0c4424f482a622dcfd7d314c52"
-  integrity sha512-Bwh/ppDirgeEQmr4hA2JM9Canm7aKUtrDmJHCieBh6pAAbIx8nOjDc6VJ8uyqI8M+02QFRXm+WM8p3NCZoJGYw==
+"@tenderly/hardhat-tenderly@^1.7.4":
+  version "1.7.4"
+  resolved "https://registry.yarnpkg.com/@tenderly/hardhat-tenderly/-/hardhat-tenderly-1.7.4.tgz#1fae19005679cbc5e67c8bd6a93a58294b270eef"
+  integrity sha512-N1eVr/kiQQeMVAikjAEg5grEGBSl6ldvGoOF1Eg1ee7G+XRF0wWp3UF5kmsU3aBfvyLsJ1nt6wcBf/hGu/LWKA==
   dependencies:
     "@ethersproject/bignumber" "^5.7.0"
     "@nomiclabs/hardhat-ethers" "^2.1.1"
